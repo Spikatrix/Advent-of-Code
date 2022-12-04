@@ -9,3 +9,4 @@ This repo contains my [Advent of Code](https://adventofcode.com/) solutions. Do 
  - AoC 2019: C
  - AoC 2020: Python
  - AoC 2021: TypeScript
+ - AoC 2022: Go
