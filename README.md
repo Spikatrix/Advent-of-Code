@@ -13,3 +13,4 @@ I did not use any AI tools like ChatGPT or Copilot to write or enhance any code 
  - AoC 2021: TypeScript
  - AoC 2022: Go
  - AoC 2023: Java
+ - AoC 2024: TypeScript
